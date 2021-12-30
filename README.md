@@ -10,3 +10,6 @@ Português : Esse webstie foi inspirado pelo canal do youtube papo de dev, o que
 - Flexbox
 - Javascript
 - Star Wars API
+
+### Link
+ Live solution URL - [https://paulovictor1997.github.io/Star-Wars-Dashbord/](https://paulovictor1997.github.io/Star-Wars-Dashbord/)
